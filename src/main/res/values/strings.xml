@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Google Login App</string>
+
+    <string name="link">
+        Click <a href ="https://phool.co/">Here</a> to open
+    </string>
+
+    <string name="link1">
+        Click <a href ="https://scrapshala.com/">Here</a> to open
+    </string>
+
+    <string name="link2">
+        Click <a href ="https://www.exxonmobilchemical.com/en/exxonmobil-chemical/sustainability/advanced-recycling-technology?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=chemical_exxtend_none&amp;ds_k=&amp;gclsrc=aw.ds&amp;&amp;ppc_keyword=plastic%20waste%20and%20recycling&amp;gad_source=1&amp;gclid=Cj0KCQiAxOauBhCaARIsAEbUSQQYrTnOOhaHiqikwEI75uF0uZAOQ5vRAAjE5Q00J1OGLvEHv-9UOJsaAlr3EALw_wcB">Here</a> to open
+    </string>
+
+    <string-array name="array_spin1_list">
+        <item>Plastics</item>
+        <item>Pens</item>
+        <item>Plastic Bags</item>
+        <item>plastic Phone Cases</item>
+        <item>Plastic Boxses</item>
+        <item>Plastic Furniture</item>
+        <item>Papers</item>
+        <item>Books</item>
+        <item>New Papers</item>
+        <item>paper(used)</item>
+        <item>E-Waste</item>
+        <item>Television</item>
+        <item>Remote</item>
+        <item>Air Conditioner</item>
+        <item>Fridge</item>
+        <item>Washing Machine</item>
+        <item>Bio_Waste</item>
+        <item>Flowers</item>
+        <item>Leftover Fruits</item>
+        <item>Leftover Vegetables</item>
+    </string-array>
+
+    <string-array name="array_spin2_list">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>More then 20</item>
+    </string-array>
+</resources>
